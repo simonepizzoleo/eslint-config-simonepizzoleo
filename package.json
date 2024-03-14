@@ -1,0 +1,17 @@
+{
+	
+	"name": "eslint-config-simonepizzoleo",
+	"version": "1.0.5",
+	"description": "Personal ESLint rules for building software. Designed from @simonepizzoleo.",
+	"main": "index.js",
+	"keywords": ["eslint", "eslintconfig"],
+	"author": "",
+	"license": "ISC",
+	"peerDependencies": {
+
+		"eslint": ">= 8.56.0",
+		"@stylistic/eslint-plugin": ">= 1.5.4"
+
+	}
+
+}
